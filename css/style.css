@@ -6,3 +6,16 @@
   border: 1px solid black;
   height: 150px;
 }
+.o {
+	background-image: url("http://jimdscott.com/static/images/tic-tac-toe-O.png");
+	background-size: 100% 100%;
+	background-color: green;
+}
+.x {
+	background-image: url("http://jimdscott.com/static/images/tic-tac-toe-X.png");
+	background-size: 100% 100%;
+	background-color: blue;
+}
+button{
+	margin-top: 20px;
+}
